@@ -1,0 +1,12 @@
+/Users/drewharper/workspace/ClassesIntro/bin/Debug/netcoreapp3.1/ClassesIntro.deps.json
+/Users/drewharper/workspace/ClassesIntro/bin/Debug/netcoreapp3.1/ClassesIntro.runtimeconfig.json
+/Users/drewharper/workspace/ClassesIntro/bin/Debug/netcoreapp3.1/ClassesIntro.runtimeconfig.dev.json
+/Users/drewharper/workspace/ClassesIntro/bin/Debug/netcoreapp3.1/ClassesIntro.dll
+/Users/drewharper/workspace/ClassesIntro/bin/Debug/netcoreapp3.1/ClassesIntro.pdb
+/Users/drewharper/workspace/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.csprojAssemblyReference.cache
+/Users/drewharper/workspace/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.AssemblyInfoInputs.cache
+/Users/drewharper/workspace/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.AssemblyInfo.cs
+/Users/drewharper/workspace/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.csproj.CoreCompileInputs.cache
+/Users/drewharper/workspace/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.dll
+/Users/drewharper/workspace/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.pdb
+/Users/drewharper/workspace/ClassesIntro/obj/Debug/netcoreapp3.1/ClassesIntro.genruntimeconfig.cache
